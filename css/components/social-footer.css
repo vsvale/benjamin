@@ -1,0 +1,25 @@
+.social-footer{
+    text-align: center;
+    text-justify: center;
+}
+.social-footer ul{
+    padding-left: 0px;
+}
+.social-footer li{
+    list-style: none;
+    font-size: 2.5rem;
+    margin:0;
+    display: inline;
+    padding-left: 2rem;
+}
+
+.social-footer a{
+    text-decoration: none;
+    color:rgb(230,230,230);
+    transition: color 0.3s ease;
+}
+
+.social-footer a:hover{
+    color: #39AECF;    
+    text-decoration: none;
+}
